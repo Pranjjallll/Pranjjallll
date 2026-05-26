@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋 I'm Pranjal Sharma: 
 🚀 Computer Science student with a specialization in Big Data Analytics, focused on full-stack development, AI, and modern technologies. Passionate about building impactful projects and solving real-world problems through technology.<br><br>
 
 
